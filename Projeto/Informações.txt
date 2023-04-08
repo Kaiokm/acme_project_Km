@@ -1,0 +1,2 @@
+Cor vermelha do topo: #eb5757
+Cor preto: #222
