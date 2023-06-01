@@ -20,18 +20,7 @@ Projeto em html feito para a disciplina TECNOLOGIA PARA FRONT-END.
     </td>
    </tr>
 </table>
-
-
-
-## :rocket: Rodando o projeto
-
-Para rodar o repositório é necessário clonar o mesmo no seu editor de código.
-
-
-
-## :soon: Implementação futura
-
-<table>
+ <table>
   <tr>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="100px;" alt="logo html"/>
@@ -39,6 +28,11 @@ Para rodar o repositório é necessário clonar o mesmo no seu editor de código
   </tr>
 </table>
 
+
+
+## :rocket: Rodando o projeto
+
+Para rodar o repositório é necessário clonar o mesmo no seu editor de código.
 
 
 ## :handshake: Colaboradores
@@ -78,4 +72,4 @@ Para rodar o repositório é necessário clonar o mesmo no seu editor de código
 
 Código html :heavy_check_mark: <br/>
 
-Código css :white_medium_small_square::white_medium_small_square::white_medium_small_square:
+Código css :heavy_check_mark: <br/>
