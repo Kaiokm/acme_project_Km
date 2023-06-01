@@ -28,10 +28,12 @@ p{
 
 .forma{
     text-decoration: none;
+    font-size: 16px;
     color: white;
     background-color: #eb5757;
-    border-radius: 10px;
-    padding: 15px;
+    border-radius: 40px;
+    padding: 10px;
+    height: 10px;
 }
 
 .forma:hover {
@@ -170,10 +172,13 @@ nav li a:hover{
 
 }
 .support_title{
+    font: Sen, sans-serif;
     font-size: 40px;
 }
 
+
 .ways_covid{
+    font: Sen, sans-serif;
     font-size: 18px;
 }
 
@@ -256,6 +261,7 @@ nav li a:hover{
 }
 .text_box_g{
     margin: 40px 0px 10px 0px;
+    padding-bottom: 50px;
     
 }
 
@@ -313,6 +319,16 @@ nav li a:hover{
     font-size: 22px;
     margin-top: 2rem;
   }
+
+#arvore_cta1{
+    color: #000000;
+}
+
+#arvore_cta1:hover{
+    background-color: #222; 
+    border-color: #222; 
+    cursor: pointer;   
+}
 
 .open_shop_text{
     margin: 50px 
@@ -447,6 +463,12 @@ nav li a:hover{
     display: flex;
     justify-content: center;
     margin-top: 30px;
+}
+
+#cta_all:hover{
+    background-color: #222; 
+    border-color: #222; 
+    cursor: pointer;    
 }
 
 .img_shops_local{
